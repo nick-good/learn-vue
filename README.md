@@ -1,24 +1,15 @@
 # learn-vue
 
+一起学习vue
+
 ## Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## step 1 for 张俊
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+配置webpack，添加dev、sit、prd配置环境，buid出来dist包
+```
