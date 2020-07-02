@@ -4,17 +4,18 @@
 
 ## 相关文档
 ```
-vuex: https://vuex.vuejs.org/zh/
-webpack: https://www.webpackjs.com/
-vue-router: https://cn.vuejs.org/v2/guide/routing.html
+>  [vuex](https://vuex.vuejs.org/zh/)
+>  [webpack](https://www.webpackjs.com/)
+>  [vue-router](https://cn.vuejs.org/v2/guide/routing.html)
 ```
 
 ## 参考工程
 ```
-vue2-happyfri：https://github.com/bailicangdu/vue2-happyfri
+[vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri)
+
 参考内容：
-step1：工程目录结构
-step2：webpack配置项
+>  step1：工程目录结构
+>  step2：webpack配置项
 ```
 
 ## 工程初始启动步骤
